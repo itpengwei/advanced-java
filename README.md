@@ -12,9 +12,11 @@
 [![issues](https://badgen.net/github/open-issues/doocs/advanced-java)](https://github.com/doocs/advanced-java/issues)
 [![PRs Welcome](https://badgen.net/badge/PRs/welcome/green)](http://makeapullrequest.com)
 
-本项目大部分内容来自中华石杉，版权归作者所有，内容涵盖[高并发](#高并发架构)、[分布式](#分布式系统)、[高可用](#高可用架构)、[微服务](#微服务架构)等领域知识。我([@yanglbme](https://github.com/yanglbme))对这部分知识做了一个系统的整理，方便学习查阅。配合《[大型网站技术架构](https://github.com/doocs/technical-books#architecture)——李智慧》、《[Redis 设计与实现](https://github.com/doocs/technical-books#database)——[黄健宏](https://github.com/huangz1990)》、《[亿级流量网站架构核心技术](https://github.com/doocs/technical-books#architecture)——张开涛》食用，[效果更佳](https://doocs.gitee.io/advanced-java/#/offer)。
+本项目大部分内容来自中华石杉，版权归作者所有，内容涵盖[高并发](#高并发架构)、[分布式](#分布式系统)、[高可用](#高可用架构)、[微服务](#微服务架构)等领域知识。我([@yanglbme](https://github.com/yanglbme))对这部分知识做了一个系统的整理，方便学习查阅。配合《[大型网站技术架构](https://github.com/doocs/technical-books#architecture)——李智慧》、《[Redis 设计与实现](https://github.com/doocs/technical-books#database)——[黄健宏](https://github.com/huangz1990)》、《[Redis 深度历险](https://github.com/doocs/technical-books#database)——钱文品》、《[亿级流量网站架构核心技术](https://github.com/doocs/technical-books#architecture)——张开涛》食用，[效果更佳](https://doocs.github.io/advanced-java/#/docs/extra-page/offer)。
 
-学习之前，先来看看 [Issues 讨论区](https://github.com/doocs/advanced-java/issues/9#issue-394275038)的技术面试官是怎么说的吧。本项目也欢迎各位开发者朋友来[分享自己的一些想法和实践经验](/docs/from-readers/README.md)。
+学习之前，先来看看 [Issues 讨论区](https://github.com/doocs/advanced-java/issues/9#issue-394275038)的技术面试官是怎么说的吧。本项目也欢迎各位开发者朋友到 [Issues 讨论区](https://github.com/doocs/advanced-java/issues)分享自己的一些想法和实践经验，参与或加入开源组织请看[这里](https://github.com/doocs/advanced-java/issues/61)，你也访问 [GitHub Page](https://doocs.github.io)  详细了解一下 Doocs。
+
+[另外，我还将在这里更新内容，感兴趣的朋友可以进来看看。](/docs/extra-page/subscriptions-for-doocs.md)
 
 ## 高并发架构
 ### [消息队列](/docs/high-concurrency/mq-interview.md)
@@ -112,6 +114,8 @@
 ## 微服务架构
 - [微服务架构整个章节内容属额外新增，后续抽空更新，也欢迎读者们参与补充完善](https://github.com/doocs/advanced-java)
 - [关于微服务架构的描述](/docs/micro-services/microservices-introduction.md)
+- [从单体式架构迁移到微服务架构](/docs/micro-services/migrating-from-a-monolithic-architecture-to-a-microservices-architecture.md)
+- [微服务的事件驱动数据管理](/docs/micro-services/event-driven-data-management-for-microservices.md)
 
 ### Spring Cloud 微服务架构
 - 什么是微服务？微服务之间是如何独立通讯的？
